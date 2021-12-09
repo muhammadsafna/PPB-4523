@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">4506_A11.2020.12594_Adji Dwinanda Ardi_UTSPBB</string>
+    <string name="btn_login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="Reset_Code">Reset Code</string>
+    <string name="Kirim_Reset_Code"> Send Reset Code</string>
+    <string-array name="daftar_prosesor">
+        <item>Ryzen 3</item>
+        <item>Ryzen 5</item>
+        <item>Ryzen 7</item>
+        <item>Ryzen 9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Ini adalah deskripsi dari Amd Ryzen 3 </item>
+        <item>Ini adalah deskripsi dari Amd Ryzen 5</item>
+        <item>Ini adalah deskripsi dari Amd Ryzen 7</item>
+        <item>Ini adalah deskripsi dari Amd Ryzen 9</item>
+    </string-array>
+</resources>
